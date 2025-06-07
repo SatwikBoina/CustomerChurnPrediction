@@ -1,0 +1,58 @@
+# Data files
+/data/
+Data/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
+*.feather
+*.xls
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Output files
+*.log
+*.out
+*.tmp
+
+# Model files
+*.pkl
+*.joblib
+*.hdf5
+*.sav
+*.model
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results and figures
+/results/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Misc
+*.bak
+*.swp
